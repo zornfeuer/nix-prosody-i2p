@@ -41,7 +41,7 @@
       prosody-c2s = {
         port = 5222;
         inPort = 5222;
-        keys = "prosody.dat"
+        keys = "prosody.dat";
       };
     };
   };

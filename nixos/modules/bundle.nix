@@ -4,6 +4,6 @@
     ./network.nix
     ./gc.nix
     ./i2pd.nix
-    ./prosody.nix
+    #./prosody.nix
   ];
 }
